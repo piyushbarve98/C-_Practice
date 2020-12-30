@@ -18,6 +18,9 @@ int main(){
         case 'c':
             cout<<"Great the matter is settled now"<<endl;
             break;
+
+        default:
+            cout<<"Sorry you lost the battle"<<endl;
     }
 
     cout<<"Program closed"<<endl;
